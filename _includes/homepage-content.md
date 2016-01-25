@@ -66,7 +66,6 @@ While the venue is open we will provide working spaces for participants to hack 
 |23:30 | Evening mixer at a bar |
 |      | __24th of April__ |
 |08:00 | Morning hacking
-|11:00 | Brunch
-|12:00 | Demos of code made during the weekend
-|13:00 | Goodbye
-```
+|11:00 | Brunch |
+|12:00 | Demos of code made during the weekend |
+|13:00 | Goodbye |
