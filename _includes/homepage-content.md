@@ -9,7 +9,7 @@ We are organizing this conference to connect cyclists from around the world, for
 
 ```
 Rainmaking Loft Copenhagen
-Danneskiold-Samsøes Allé 41 
+Danneskiold-Samsøes Allé 41
 1434 København K
 ```
 
@@ -23,7 +23,7 @@ We want CycleConf to be accessible and affordable.
 Therefor we are proud to announce 99 € ticket price.
 We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact [negin@risedigital.dk](mailto:negin@risedigital.dk) for details.
 
-Tickets will go on sale the 5th of February at noon CET (UTC+01:00).
+Tickets will go on sale soon.
 
 ## Scale
 
