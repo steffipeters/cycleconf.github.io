@@ -31,7 +31,7 @@ We are unable to provide hosting for participants. Copenhagen has many hotels, c
 
 ## Speakers
 
-We are still looking for speakers, if you are interested to speak during the conference please contact aron@risedigital.dk to introduce yourself and detail the topic of your presentations.
+We are still looking for speakers, if you are interested to speak during the conference please contact [aron@risedigital.dk](mailto:aron@risedigital.dk) to introduce yourself and detail the topic of your presentations.
 
 So far the confirmed speakers are:
 [André Staltz](https://github.com/staltz) (RxJS core contributor, Creator of Cycle.js)
