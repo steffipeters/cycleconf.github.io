@@ -37,7 +37,7 @@ So far the confirmed speakers are:
 
 - [André Staltz](https://github.com/staltz) (RxJS core contributor, Creator of Cycle.js)
 
-There will also be a lightning talk time slots where you have 8 minutes to present something cool related to Cycle.JS. You can register on-site for the lightning talks during the conference.
+There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.JS. You can register on-site for the lightning talks during the conference.
 
 
 ## Hacking
