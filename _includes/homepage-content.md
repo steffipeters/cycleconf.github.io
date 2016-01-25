@@ -1,113 +1,80 @@
-<h2 class="first-feature" id="your-app-and-the-external-world-as-a-circuit">Announcing the worlds first Cycle.JS Conference in Copenhagen, Denmark.</h2>
 
-<p>
-  {% include /img/cycle-nested-frontpage.svg %}
-</p>
+We are excited to announce the worlds first Cycle.js conference in Copenhagen, the cycling capital of Europe.
 
-Cycle's core abstraction is your application as a pure function `main()` where inputs are observable side effects (*sources*) from the external world and outputs (*sinks*) are commands or updates to affect the external world. These side effects in the external world are managed by *drivers*: plugins that handle DOM effects, HTTP effects, etc.
+We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
-The internals of `main()` are built using Reactive programming primitives, which maximizes separation of concerns, providing a clean and fully declarative way of organizing your code. The *dataflow* is plainly visible, making it easy to read and understand the code.
+## Venue
 
-## Example
+[Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is our proud partner and will be providing the venue for our event. This community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city's Opera House overlooking the harbor. They support tech startups by providing them with a highly inspiring work environment at an affordable price.
 
-{% highlight text %}
-npm install rx @cycle/core @cycle/dom
-{% endhighlight %}
+Rainmaking Loft Copenhagen is situated in a historical building just behind the Opera
+```
+Rainmaking Loft Copenhagen
+Danneskiold-Samsøes Allé 41
+1434 København K
+```
 
-{% highlight js %}
-import Cycle from '@cycle/core';
-import {div, label, input, h1, makeDOMDriver} from '@cycle/dom';
+## Host
 
-function main(sources) {
-  const sinks = {
-    DOM: sources.DOM.select('.field').events('input')
-      .map(ev => ev.target.value)
-      .startWith('')
-      .map(name =>
-        div([
-          label('Name:'),
-          input('.field', {attributes: {type: 'text'}}),
-          h1('Hello ' + name)
-        ])
-      )
-  };
-  return sinks;
-}
+[Rise Digital](http://risedigital.dk) is hosting the event and taking care of all the practical things not related to the venue. CycleConf is a community effort, and the organizers are open to input and helping hands. If you can help Rise Digital organize CycleConf in any way, please don't hesitate to contact [aron@risedigital.dk](mailto:aron@risedigital.dk)
 
-Cycle.run(main, { DOM: makeDOMDriver('#app-container') });
-{% endhighlight %}
+## Tickets
 
-<div class="homepage-features" markdown="1">
-## Functional and Reactive
+We want CycleConf to be accessible and affordable.
+Therefor we are proud to announce 99 € ticket price.
+We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact [negin@risedigital.dk](mailto:negin@risedigital.dk) for details.
 
-Functional means "clean", and Reactive means "separated". Cycle.js apps are made of pure functions, which means you know they simply take inputs and generate outputs, without performing any side effects. The building blocks are Observables from [RxJS](https://github.com/Reactive-Extensions/RxJS), a Reactive programming library which simplifies code related to events, asynchrony, and errors. Structuring the application with RxJS also separates concerns, because all [dynamic updates to a piece of data are co-located](/observables.html#reactive-programming) and impossible to change from outside. As a result, apps in Cycle are entirely `this`-less and have nothing comparable to imperative calls such as `setState()` or `foo.update()`.
-</div>
+Tickets will go on sale the 5th of February at noon CET (UTC+01:00).
 
-<div class="homepage-features" markdown="1">
-## Simple and Concise
+## Scale
 
-Cycle.js is a framework with very few concepts to learn. The core API has just one function: `run(app, drivers)`. Besides that, there are **Observables**, **functions**, **drivers** (plugins for different types of side effects), and a helper function to isolate scoped components. This is a framework with very little amount of "magic". Most of the building blocks are just JavaScript functions. Usually the lack of "magic" leads to very verbose code, but since RxJS Observables are able to build complex dataflows with a few operations, you will come to see how apps in Cycle.js are small and readable.
-</div>
+Cycle.js is still in its infancy, our aim is to organize a small and focused conference. We are setting the initial limit at 50 participants. In case of insane demand we may consider moving to a bigger venue and making a bigger event.
 
-<div class="homepage-features" markdown="1">
-## Extensible and Testable
+## Accommodation
 
-Drivers are plugin-like simple functions that take messages from sinks and call imperative functions. All side effects are contained in drivers. This means your application is just a pure function, and it becomes easy to swap drivers around. The community has built drivers for [React Native](https://github.com/cyclejs/cycle-react-native), [HTML5 Notification](https://github.com/cyclejs/cycle-notification-driver), [Socket.io](https://github.com/cgeorg/cycle-socket.io), etc. Sources and sinks can be easily used as [Adapters and Ports](https://iancooper.github.io/Paramore/ControlBus.html). This also means testing is mostly a matter of feeding inputs and inspecting the output. No deep mocking needed. Your application is just a pure transformation of data.
-</div>
+We are unable to provide hosting for participants. Copenhagen has many hotels, hostels and Cosy Airbnb apartments, and friendly couch-surfing hosts.
 
-## Explicit dataflow
+## Speakers
 
-In every Cycle.js app, each of the Observable declarations is a node in a dataflow graph, and the dependencies between declarations are arrows. This means there is a one-to-one correspondence between your code and *minimap*-like graph of the dataflow between external inputs and external outputs.
+We are still looking for speakers, if you are interested to speak during the conference please contact aron@risedigital.dk to introduce yourself and detail the topic of your presentations.
 
-<div class="explicit-dataflow">
-<div>
-<p class="dataflow-minimap" markdown="1">
-  {% include /img/dataflow-minimap.svg %}
-</p>
-</div>
-<div class="dataflow-minimap-code" markdown="1">
-{% highlight js %}
-function main(sources) {
-  const decrement$ = sources.DOM
-    .select('.decrement').events('click').map(ev => -1);
+So far the confirmed speakers are:
+[André Staltz](https://github.com/staltz) (RxJS core contributor, Creator of Cycle.js)
 
-  const increment$ = sources.DOM
-    .select('.increment').events('click').map(ev => +1);
+There will also be a lightning talk time slots where you have 8 minutes to present something cool related to Cycle.JS. You can register on-site for the lightning talks during the conference.
 
-  const action$ = Observable.merge(decrement$, increment$);
-  const count$ = action$.startWith(0).scan((x,y) => x+y);
 
-  const vtree$ = count$.map(count =>
-    div([
-      button('.decrement', 'Decrement'),
-      button('.increment', 'Increment'),
-      p('Counter: ' + count)
-    ])
-  );
-  return { DOM: vtree$ };
-}
-{% endhighlight %}
-</div>
-</div>
+## Hacking
 
-In many frameworks the flow of data is *implicit*: you need to build a mental model of how data moves around in your app. In Cycle.js, the flow of data is clear by reading your code.
+In addition to the speakers CycleConf wants to give participants a space to hack together and make the Cycle.js ecosystem even better. After the opening keynote there will be an opportunity to present your Cycle.js project, so other participants can join your team. We hope CycleConf will be a great space for connecting people around projects and new projects can emerge from our conference.
 
-## Composable
+## Schedule
 
-Cycle.js has components, but unlike other frameworks, every single Cycle.js app, no matter how complex, is a function that can be reused in a larger Cycle.js app.
+Here follows a preliminary schedule that is subject to change.
+We provide the schedule at this early stage to inform you of the outline of the conference.
+While the venue is open we will provide working spaces for participants to hack on their Cycle.js projects.
 
-<p>
-  {% include /img/nested-components.svg %}
-</p>
+```
+21st of April
+Pre-party at a bar in Copenhagen.
 
-Sources and sinks are the interface between the application and the drivers, but they are also the interface between a child component and its parent. Cycle.js components can be simply GUI widgets like in other frameworks, but they are not limited to GUIs only. You can make Web Audio components, network requests components, and others, since the sources/sinks interface is not exclusive to the DOM.
+22nd of April:
+15.00 Registration
+18:00 Dinner
+19:00 opening keynote
+20:30 hacking and team forming
+23:30 evening mixer at a bar
 
-## Supports...
+23rd of April:
+08:00 Morning hacking
+11:00 Brunch
+12:00 afternoon talks
+18:00 Dinner
+20:00 Evening lightning-talks
+23:30 evening mixer at a bar
 
-- [**Virtual DOM rendering**](https://github.com/cyclejs/cycle-dom)
-- [**Server-side rendering**](https://github.com/cyclejs/cycle-examples/tree/master/isomorphic)
-- [**JSX**](http://cycle.js.org/getting-started.html)
-- [**React Native**](https://github.com/cyclejs/cycle-react-native)
-- [**Time travelling**](https://github.com/cyclejs/cycle-time-travel)
-- [**Routing with the History API**](https://github.com/cyclejs/cycle-history)
-- [**And more...**](https://github.com/vic/awesome-cyclejs)
+24th of April:
+08:00 Morning hacking
+11:00 Brunch
+12:00 demos & goodbye
+```
