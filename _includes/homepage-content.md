@@ -7,7 +7,7 @@ We are organizing this conference to connect cyclists from around the world, for
 
 ## Venue
 
-[Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is our proud partner and will be providing the venue for our event. This community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city's Opera House overlooking the harbor. They support tech startups by providing them with a highly inspiring work environment at an affordable price.
+[Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is our proud partner and will be providing the venue for our event. This community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city's Opera House overlooking the harbor. Rainmaking supports tech startups by providing them with a highly inspiring work environment at an affordable price.
 
 ## Host
 
