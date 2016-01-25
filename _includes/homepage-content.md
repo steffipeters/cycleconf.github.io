@@ -27,7 +27,7 @@ Cycle.js is still in its infancy, our aim is to organize a small and focused con
 
 ## Accommodation
 
-We are unable to provide hosting for participants. Copenhagen has many hotels, hostels and Cosy Airbnb apartments, and friendly couch-surfing hosts.
+We are unable to provide hosting for participants. Copenhagen has many hotels, cosy Airbnb apartments, and friendly couch-surfing hosts.
 
 ## Speakers
 
