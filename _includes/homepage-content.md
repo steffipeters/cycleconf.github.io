@@ -7,12 +7,6 @@ We are organizing this conference to connect cyclists from around the world, for
 
 [Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is our proud partner and will be providing the venue for our event. This community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city's Opera House overlooking the harbor. They support tech startups by providing them with a highly inspiring work environment at an affordable price.
 
-```
-Rainmaking Loft Copenhagen
-Danneskiold-Samsøes Allé 41
-1434 København K
-```
-
 ## Host
 
 [Rise Digital](http://risedigital.dk) is hosting the event and taking care of all the practical things not related to the venue. CycleConf is a community effort, and the organizers are open to input and helping hands. If you can help Rise Digital organize CycleConf in any way, please don't hesitate to contact [aron@risedigital.dk](mailto:aron@risedigital.dk)
