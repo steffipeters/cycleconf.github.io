@@ -49,34 +49,24 @@ Here follows a preliminary schedule that is subject to change.
 We provide the schedule at this early stage to inform you of the outline of the conference.
 While the venue is open we will provide working spaces for participants to hack on their Cycle.js projects.
 
-|      | 21st of April |
-|------|---------------|
+|      | __21st of April__ |
 |22:00 | Pre-party at a bar in Copenhagen. |
-|      | 22nd of April |
-|------|---------------|
+|      | __22nd of April__ |
 |15.00 | Registration            |
 |18:00 | Dinner                  |
 |19:00 | Opening keynote         |
 |20:30 | Team forming and hacking|
 |23:30 | Evening mixer at a bar  |
-
-21st of April
-  22:00 Pre-party at a bar in Copenhagen.
-22nd of April:
-  15.00 Registration
-  18:00 Dinner
-  19:00 opening keynote
-  20:30 hacking and team forming
-  23:30 evening mixer at a bar
-23rd of April:
-  08:00 Morning hacking
-  11:00 Brunch
-  12:00 afternoon talks
-  18:00 Dinner
-  20:00 Evening lightning-talks
-  23:30 evening mixer at a bar
-24th of April:
-  08:00 Morning hacking
-  11:00 Brunch
-  12:00 demos & goodbye
+|      | __23rd of April__ |
+|08:00 | Morning hacking |
+|11:00 | Brunch |
+|12:00 | Afternoon talks |
+|18:00 | Dinner |
+|20:00 | Evening lightning-talks |
+|23:30 | Evening mixer at a bar |
+|      | __24th of April__ |
+|08:00 | Morning hacking
+|11:00 | Brunch
+|12:00 | Demos of code made during the weekend
+|13:00 | Goodbye
 ```
