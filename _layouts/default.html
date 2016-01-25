@@ -3,19 +3,10 @@ layout: blank
 ---
     <div class="wide-page-body">
       <nav class="side-menu">
-        <a href="/" class="cycle-home-link">
-          <img class="cycle-home-logo" src="/img/cyclejs_logo.svg" alt="Cycle.js logo"/>
-        </a>
         <h3>
           <a href="/" class="cycle-home-link">CycleConf 2016</a>
         </h3>
-        <ul>
-          {% for chapter in site.tags.chapters %}
-          <li>{% if page.id == chapter.id %}<strong><a href="{{ chapter.url }}">{{ chapter.title }}</a></strong>{% else %}<a href="{{ chapter.url }}">{{ chapter.title }}{% endif %}</a></li>
-          {% endfor %}
-          <li><a class="github-link" href="https://github.com/cyclejs" target="_blank"><i class="fa fa-github"></i>
-          </a></li>
-        </ul>
+        <br>
       </nav>
       <article id="content">
         <header>
