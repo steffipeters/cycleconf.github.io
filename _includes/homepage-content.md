@@ -1,4 +1,4 @@
-<h2 class="first-feature" id="your-app-and-the-external-world-as-a-circuit">Your app and the external world as a circuit</h2>
+<h2 class="first-feature" id="your-app-and-the-external-world-as-a-circuit">Announcing the worlds first Cycle.JS Conference</h2>
 
 <p>
   {% include /img/cycle-nested-frontpage.svg %}
