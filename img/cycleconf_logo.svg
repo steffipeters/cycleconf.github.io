@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="640" height="640" viewBox="0, 0, 640, 640">
-  <g id="Background">
-    <rect x="0" y="0" width="640" height="640" fill="#FFFFFF"/>
-  </g>
+  
   <defs>
     <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="186.763" y1="637.383" x2="553.446" y2="2.269">
       <stop offset="0.415" stop-color="#B251D9"/>
