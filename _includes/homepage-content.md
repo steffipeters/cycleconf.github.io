@@ -39,7 +39,7 @@ So far the confirmed speakers are:
 |[Tylor Steinberger](https://github.com/tylors)| Creator of Motorcycle.js                       |
 
 
-There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.JS. You can register on-site for the lightning talks during the conference.
+There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
 
 
 ## Hacking
