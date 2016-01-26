@@ -35,8 +35,8 @@ We are still looking for speakers, if you are interested to speak during the con
 
 So far the confirmed speakers are:
 
-|[André Staltz](https://github.com/staltz)     | RxJS core contributor, Creator of Cycle.js     |
-|[Tylor Steinberger](https://github.com/tylors)| Creator of Motorcycle.js                       |
+|[André Staltz](https://github.com/staltz)     | RxJS core contributor, Creator of Cycle.js          |
+|[Tylor Steinberger](https://github.com/tylors)| Cycle.js core contributor, Creator of Motorcycle.js |
 
 
 There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
