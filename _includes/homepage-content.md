@@ -19,7 +19,10 @@ We want CycleConf to be accessible and affordable.
 Therefor we are proud to announce 99€ ticket price.
 We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact [negin@risedigital.dk](mailto:negin@risedigital.dk) for details.
 
-Tickets will go on sale soon.
+Tickets will be sold through [eventbrite](https://www.eventbrite.com/e/cycleconf-2016-tickets-21029885955).
+The first batch will go on sale February 1st, successive batches February 14th, and February 28th.
+
+__Do not buy a ticket if you are a speaker at the conference.__
 
 ## Scale
 
