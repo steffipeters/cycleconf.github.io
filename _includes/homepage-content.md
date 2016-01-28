@@ -35,8 +35,9 @@ We are still looking for speakers, if you are interested to speak during the con
 
 So far the confirmed speakers are:
 
-|[André Staltz](https://github.com/staltz)     | RxJS core contributor, Creator of Cycle.js          |
-|[Tylor Steinberger](https://github.com/tylors)| Cycle.js core contributor, Creator of Motorcycle.js |
+|[André Staltz](https://github.com/staltz)        | RxJS core contributor, Creator of Cycle.js          |
+|[Tylor Steinberger](https://github.com/tylors)   | Cycle.js core contributor, Creator of Motorcycle.js |
+|[Nick Johnstone](https://github.com/widdershin)  | Hot reloading and developer tools for Cycle.js |
 
 
 There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
@@ -72,3 +73,10 @@ While the venue is open we will provide working spaces for participants to hack 
 |11:00 | Brunch |
 |12:00 | Demos of code made during the weekend |
 |13:00 | Goodbye |
+
+##Code of Conduct
+
+We want CycleConf to be a fun and fruitful event for everyone, regardless of their gender, sexual orientation, disability, physical appearance, body size, race, or religion.
+Harassment will not be tolerated at the conference.
+If you witness intolerable behavior during the conference, please get in touch with the organizers. We care.
+Be nice, welcoming, and respectful.
