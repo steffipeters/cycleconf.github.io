@@ -84,7 +84,7 @@ While the venue is open we will provide working spaces for participants to hack 
 
 Futurice loves open source. We greatly benefit of the free available technology when we build digital services for our customers. Actions speak louder than words, so we are constantly looking for ways to give back to the community through our dedicated Spice Program. Encouraging our employees to embrace open source and sponsoring their personal projects is an efficient way to make a difference. The impact of André’s Cycle.js is a conclusive proof of this. We are happy to sponsor the Cycle.js community conference in Copenhagen, and several of our employees will attend the event.
 
-##Code of Conduct
+## Code of Conduct
 
 We want CycleConf to be a fun and fruitful event for everyone, regardless of their gender, sexual orientation, disability, physical appearance, body size, race, or religion.
 Harassment will not be tolerated at the conference.
