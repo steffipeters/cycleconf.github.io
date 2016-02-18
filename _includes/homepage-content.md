@@ -41,6 +41,7 @@ So far the confirmed speakers are:
 |[André Staltz](https://github.com/staltz)        | RxJS core contributor, Creator of Cycle.js          |
 |[Tylor Steinberger](https://github.com/tylors)   | Cycle.js core contributor, Creator of Motorcycle.js |
 |[Nick Johnstone](https://github.com/widdershin)  | Creator of hot reloading and developer tools for Cycle.js |
+|[Gleb Bahmutov](https://github.com/bahmutov)     | PhD and JavaScript Ninja |
 
 
 There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
@@ -76,6 +77,12 @@ While the venue is open we will provide working spaces for participants to hack 
 |11:00 | Brunch |
 |12:00 | Demos of code made during the weekend |
 |13:00 | Goodbye |
+
+## Sponsors
+
+<img src="/img/futurice-logo--green.svg" alt="Futurice logo" width="100" height="100">
+
+Futurice loves open source. We greatly benefit of the free available technology when we build digital services for our customers. Actions speak louder than words, so we are constantly looking for ways to give back to the community through our dedicated Spice Program. Encouraging our employees to embrace open source and sponsoring their personal projects is an efficient way to make a difference. The impact of André’s Cycle.js is a conclusive proof of this. We are happy to sponsor the Cycle.js community conference in Copenhagen, and several of our employees will attend the event.
 
 ##Code of Conduct
 
