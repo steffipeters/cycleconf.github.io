@@ -84,6 +84,14 @@ While the venue is open we will provide working spaces for participants to hack 
 
 Futurice loves open source. We greatly benefit of the free available technology when we build digital services for our customers. Actions speak louder than words, so we are constantly looking for ways to give back to the community through our dedicated Spice Program. Encouraging our employees to embrace open source and sponsoring their personal projects is an efficient way to make a difference. The impact of André’s Cycle.js is a conclusive proof of this. We are happy to sponsor the Cycle.js community conference in Copenhagen, and several of our employees will attend the event.
 
+<img src="/img/rainmaking-logo.png" alt="Rainmaking logo" width="100">
+
+[Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is providing us with a venue on very favourable terms. The LOFT is a community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city’s Opera House overlooking the harbor. Rainmaking supports tech startups by providing them with a highly inspiring work environment at an affordable price.
+
+<img src="/img/rise-logo.svg" alt="Rise Digital logo" width="100">
+
+[Rise Digital](http://risedigital.dk/) is hosting and sponsoring the event and taking care of all the practical things not related to the venue. We are a digital innovation agency with a commitment and curiosity to new ideas and approaches. We believe the concepts and ideas Cycle.js is built on will shape front-end development for many years to come.
+
 ## Code of Conduct
 
 We want CycleConf to be a fun and fruitful event for everyone, regardless of their gender, sexual orientation, disability, physical appearance, body size, race, or religion.
