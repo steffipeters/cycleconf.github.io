@@ -82,7 +82,7 @@ While the venue is open we will provide working spaces for participants to hack 
 
 <img src="/img/futurice-logo--green.svg" alt="Futurice logo" width="100" height="100">
 
-Futurice loves open source. We greatly benefit of the free available technology when we build digital services for our customers. Actions speak louder than words, so we are constantly looking for ways to give back to the community through our dedicated Spice Program. Encouraging our employees to embrace open source and sponsoring their personal projects is an efficient way to make a difference. The impact of André’s Cycle.js is a conclusive proof of this. We are happy to sponsor the Cycle.js community conference in Copenhagen, and several of our employees will attend the event.
+[Futurice](http://futurice.com) loves open source. We greatly benefit of the free available technology when we build digital services for our customers. Actions speak louder than words, so we are constantly looking for ways to give back to the community through our dedicated Spice Program. Encouraging our employees to embrace open source and sponsoring their personal projects is an efficient way to make a difference. The impact of André’s Cycle.js is a conclusive proof of this. We are happy to sponsor the Cycle.js community conference in Copenhagen, and several of our employees will attend the event.
 
 <img src="/img/rainmaking-logo.png" alt="Rainmaking logo" width="100">
 
