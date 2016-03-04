@@ -1,5 +1,5 @@
 
-We are excited to announce the worlds first Cycle.js conference in Copenhagen the __21st – 24th of April 2016__.
+We are excited to announce the worlds first Cycle.js conference in Copenhagen the __22nd – 24th of April 2016__.
 
 
 
