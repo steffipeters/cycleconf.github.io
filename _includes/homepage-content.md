@@ -58,7 +58,8 @@ We provide the schedule at this early stage to inform you of the outline of the 
 While the venue is open we will provide working spaces for participants to hack on their Cycle.js projects.
 
 |      | __21st of April__ |
-|22:00 | Pre-party at a bar in Copenhagen. |
+|19:00 | Cycle.js meet-up (free event). |
+|23:30 | Pre-party at a bar in Copenhagen. |
 |      | __22nd of April__ |
 |15.00 | Registration            |
 |18:00 | Dinner                  |
