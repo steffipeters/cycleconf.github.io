@@ -42,7 +42,7 @@ So far the confirmed speakers are:
 |[Tylor Steinberger](https://github.com/tylors)   | Cycle.js core contributor, Creator of Motorcycle.js |
 |[Nick Johnstone](https://github.com/widdershin)  | Creator of hot reloading and developer tools for Cycle.js |
 |[Gleb Bahmutov](https://github.com/bahmutov)     | PhD and JavaScript Ninja |
-
+|[Hadrien de Cuzey](https://github.com/chadrien)     | Cycle.js fanatic (Cycle on the bash side)|
 
 There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
 
