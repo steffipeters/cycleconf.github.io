@@ -38,11 +38,11 @@ We are still looking for speakers, if you are interested to speak during the con
 
 So far the confirmed speakers are:
 
-|[André Staltz](https://github.com/staltz) 🇧🇷| RxJS core contributor, Creator of Cycle.js          | TBA |
-|[Tylor Steinberger](https://github.com/tylors) 🇺🇸| Cycle.js core contributor, Creator of Motorcycle.js | TBA |
-|[Nick Johnstone](https://github.com/widdershin) 🇳🇿| Creator of hot reloading and developer tools for Cycle.js | Back to the future: Time Travel and Hot Reloading with Cycle.js |
-|[Gleb Bahmutov](https://github.com/bahmutov) 🇺🇸| PhD and JavaScript Ninja | TBA |
-|[Hadrien de Cuzey](https://github.com/chadrien) 🇫🇷| Cycle.js fanatic| Cycle on the bash side |
+|🇧🇷 [André Staltz](https://github.com/staltz)| RxJS core contributor, Creator of Cycle.js          | TBA |
+|🇺🇸 [Tylor Steinberger](https://github.com/tylors)| Cycle.js core contributor, Creator of Motorcycle.js | TBA |
+|🇳🇿 [Nick Johnstone](https://github.com/widdershin)| Creator of hot reloading and developer tools for Cycle.js | Back to the future: Time Travel and Hot Reloading with Cycle.js |
+|🇺🇸 [Gleb Bahmutov](https://github.com/bahmutov)| PhD and JavaScript Ninja | TBA |
+|🇫🇷 [Hadrien de Cuzey](https://github.com/chadrien)| Cycle.js fanatic| Cycle on the bash side |
 
 There will also be lightning talk time slots where you have 8 minutes to present something cool related to Cycle.js. You can register on-site for the lightning talks during the conference.
 
