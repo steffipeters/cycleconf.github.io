@@ -21,7 +21,6 @@ We will cover most conference expenses through sponsorships, if you are interest
 
 As of April 4th 2016 all tickets are sold out.
 
-__Do not buy a ticket if you are a speaker at the conference.__
 
 ## Scale
 
