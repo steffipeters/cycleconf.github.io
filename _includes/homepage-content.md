@@ -20,6 +20,8 @@ Therefor we are proud to announce 99€ ticket price.
 We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact [negin@risedigital.dk](mailto:negin@risedigital.dk) for details.
 
 As of April 4th 2016 all tickets are sold out.
+If you didn't grab a ticket, don't worry. We are going to live stream the main talks.
+Check back here for more info.
 
 
 ## Scale
