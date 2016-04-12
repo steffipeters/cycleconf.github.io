@@ -91,7 +91,11 @@ While the venue is open we will provide working spaces for participants to hack 
 
 <img src="/img/rise-logo.svg" alt="Rise Digital logo" width="100">
 
+[At The Frontend](https://atthefrontend.dk) is a cutting edge event for professional web developers and designers in the heart of Copenhagen. We love meeting people, sharing knowledge and bleeding edge technology, and CycleConf embraces all those things. Supporting CycleConf feels extra special considering fun and unusual format with a mix of social, sessions and hacking.
+
 [Rise Digital](http://risedigital.dk/) is hosting and sponsoring the event and taking care of all the practical things not related to the venue. We are a digital innovation agency with a commitment and curiosity to new ideas and approaches. We believe the concepts and ideas Cycle.js is built on will shape front-end development for many years to come.
+
+
 
 ## Code of Conduct
 
