@@ -89,9 +89,11 @@ While the venue is open we will provide working spaces for participants to hack 
 
 [Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is providing us with a venue on very favourable terms. The LOFT is a community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city’s Opera House overlooking the harbor. Rainmaking supports tech startups by providing them with a highly inspiring work environment at an affordable price.
 
-<img src="/img/rise-logo.svg" alt="Rise Digital logo" width="100">
+<img src="/img/atf-logo.png" alt="At The Frontend logo" width="100">
 
 [At The Frontend](https://atthefrontend.dk) is a cutting edge event for professional web developers and designers in the heart of Copenhagen. We love meeting people, sharing knowledge and bleeding edge technology, and CycleConf embraces all those things. Supporting CycleConf feels extra special considering fun and unusual format with a mix of social, sessions and hacking.
+
+<img src="/img/rise-logo.svg" alt="Rise Digital logo" width="100">
 
 [Rise Digital](http://risedigital.dk/) is hosting and sponsoring the event and taking care of all the practical things not related to the venue. We are a digital innovation agency with a commitment and curiosity to new ideas and approaches. We believe the concepts and ideas Cycle.js is built on will shape front-end development for many years to come.
 
