@@ -97,6 +97,11 @@ While the venue is open we will provide working spaces for participants to hack 
 
 [Rise Digital](http://risedigital.dk/) is hosting and sponsoring the event and taking care of all the practical things not related to the venue. We are a digital innovation agency with a commitment and curiosity to new ideas and approaches. We believe the concepts and ideas Cycle.js is built on will shape front-end development for many years to come.
 
+<img src="/img/danskebank-logo.svg" alt="Rise Digital logo" width="100">
+[Danske Bank](https://danskebank.com/)
+At Danske Bank, we decisively adopt and support open standards. Cycle.js is a great example of the open source movement and we strongly believe in the vision behind it. Because we see Cycle.js as one of the most promising new JS toolkits we will be using Cycle.js in one of our most ambitious projects in years, creating a product that we truly believe will have a huge influence on the business banking domain. For this reason we want to support the Cycle.js community and are excited to participate in this event.
+
+
 
 
 ## Code of Conduct
