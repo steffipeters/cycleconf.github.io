@@ -6,6 +6,12 @@ We are excited to announce the worlds first Cycle.js conference in Copenhagen th
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
+##Live Stream
+
+For those of you who are unable to attend CycleConf, we are providing live streaming of the main talks.
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vyzG4JKkeME" frameborder="0" allowfullscreen></iframe>
+
 ## Venue
 
 [Rainmaking Loft Copenhagen](http://www.rainmakingloft.dk) is our proud partner and will be providing the venue for our event. This community of 300+ entrepreneurs is housed within a unique, cultural landmark building from 1888 that used to serve the Danish navy. Nearby neighbors include the creative education hub of Copenhagen and the city's Opera House overlooking the harbor. Rainmaking supports tech startups by providing them with a highly inspiring work environment at an affordable price.
