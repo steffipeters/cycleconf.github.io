@@ -66,20 +66,20 @@ While the venue is open we will provide working spaces for participants to hack 
 
 |      | __21st of April__ |
 |19:00 | Cycle.js [meet-up](http://www.meetup.com/CycleJS-Copenhagen/events/229339806/) (free event).  |
-|23:30 | Pre-party at a bar in Copenhagen. |
+|23:00 | We go socialize at Kanal Bodegaen (Overgaden Oven Vandet 36, 1415 København K) |
 |      | __22nd of April__ |
 |15.00 | Registration            |
 |18:00 | Dinner                  |
 |19:00 | Opening keynote         |
 |20:30 | Team forming and hacking|
-|23:30 | Evening mixer at a bar  |
+|23:30 | We go socialize at Fingerbøllet (Wildersgade 39, 1408 København K) 2 x drink tickets included  |
 |      | __23rd of April__ |
 |08:00 | Morning hacking |
 |11:00 | Brunch |
 |12:00 | Afternoon talks |
 |18:00 | Dinner |
 |20:00 | Evening lightning-talks |
-|23:30 | Evening mixer at a bar |
+|23:30 | We go socialize at Loppen (Sydområdet 4B, 1440 København K) 2 x drink tickets included |
 |      | __24th of April__ |
 |08:00 | Morning hacking |
 |11:00 | Brunch |
