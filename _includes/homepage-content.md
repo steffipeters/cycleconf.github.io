@@ -2,7 +2,13 @@
 We are excited to announce the worlds first Cycle.js conference in Copenhagen the __22nd – 24th of April 2016__, with warmup the __21st__.
 
 
+Join us on Gitter for CycleConf chatter.
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cycleconf/cycleconf.github.io)
+
+Follow us on Twitter for the latest CycleConf updates. Our official twitter hashtag is __#CycleConf__
+
+<a href="https://twitter.com/cycleconf" class="twitter-follow-button" data-show-count="false">Follow @cycleconf</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
