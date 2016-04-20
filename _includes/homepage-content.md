@@ -60,9 +60,7 @@ In addition to the speakers CycleConf wants to give participants a space to hack
 
 ## Schedule
 
-Here follows a preliminary schedule that is subject to change.
-We provide the schedule at this early stage to inform you of the outline of the conference.
-While the venue is open we will provide working spaces for participants to hack on their Cycle.js projects.
+
 
 |      | __21st of April__ |
 |19:00 | Cycle.js [meet-up](http://www.meetup.com/CycleJS-Copenhagen/events/229339806/) (free event).  |
