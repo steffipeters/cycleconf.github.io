@@ -12,11 +12,21 @@ Follow us on Twitter for the latest CycleConf updates. Our official twitter hash
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
-## Live Stream
+## Talks
 
-For those of you who are unable to attend CycleConf, we are providing live streaming of the main talks.
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/vyzG4JKkeME" frameborder="0" allowfullscreen></iframe>
+### André Staltz
+<iframe width="720" height="405" src="https://www.youtube.com/embed/1ToJ7cxb1R8" frameborder="0" allowfullscreen></iframe>
+
+### Nick Johnstone
+<iframe width="720" height="405" src="https://www.youtube.com/embed/rbrnyC5fXMM" frameborder="0" allowfullscreen></iframe>
+
+### Gleb Bahmutov
+<iframe width="720" height="405" src="https://www.youtube.com/embed/PCq4pXaDZw" frameborder="0" allowfullscreen></iframe>
+
+### Hadrien de Cuzey
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Rx5N99TQ52g" frameborder="0" allowfullscreen></iframe>
+
 
 ## Venue
 
