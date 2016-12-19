@@ -14,7 +14,7 @@ Follow us on Twitter for the latest CycleConf updates. Our official twitter hash
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
 ## CycleConf 2016
-CycleConf 2016 was a great success and acted as the launch pad for the next major version of Cycle.js, <a href="/2016/">click here to see the talks, and to read more about CycleConf 2016</a>.
+CycleConf 2016 was a great success and acted as the launch pad for the next major version of Cycle.js, <a href="/2016">click here to see the talks, and to read more about CycleConf 2016</a>.
 
 
 ## Code of Conduct
