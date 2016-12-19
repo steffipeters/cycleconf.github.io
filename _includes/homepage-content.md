@@ -1,6 +1,6 @@
 ## Save the date: 21nd – 23th of April 2017
 We are really excited to announce CycleConf 2017, this time in Stockholm.
-Make sure to save the date __21nd – 23th of April 2017__ while we make the final arrangements, so please check back soon again.
+Make sure to save the date __21nd – 23th of April 2017__ while we make the final arrangements, so please check back again soon.
 
 
 Join us on Gitter for CycleConf chatter.
