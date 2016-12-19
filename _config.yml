@@ -3,7 +3,7 @@ author: "Andre Staltz"
 description: "The Worlds first Cycle.js Conference in Copenhagen 22nd of April – 24th of April"
 more: "read more"
 url: "http://cycle.js.org/"
-permalink: none
+permalink: "/"
 
 excerpt_separator: "\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
