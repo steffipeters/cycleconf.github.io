@@ -34,7 +34,7 @@ We are organizing this conference to connect cyclists from around the world, for
 
 ## Host
 
-[Rise Digital](http://risedigital.dk) is hosting the event and taking care of all the practical things not related to the venue. CycleConf is a community effort, and the organizers are open to input and helping hands. If you can help Rise Digital organize CycleConf in any way, please don't hesitate to contact [aron@risedigital.dk](mailto:aron@risedigital.dk)
+[Rise Digital](http://risedigital.dk) is hosting the event and taking care of all the practical things not related to the venue. CycleConf is a community effort, and the organizers are open to input and helping hands. If you can help Rise Digital organize CycleConf in any way, please don't hesitate to contact [me@aronallen.com](mailto:me@aronallen.com)
 
 ## Tickets
 
@@ -56,7 +56,7 @@ We are unable to provide hosting for participants. Copenhagen has many hotels, c
 
 ## Speakers
 
-We are still looking for speakers, if you are interested to speak during the conference please contact [aron@risedigital.dk](mailto:aron@risedigital.dk) to introduce yourself and detail the topic of your presentations.
+We are still looking for speakers, if you are interested to speak during the conference please contact [me@aronallen.com](mailto:me@aronallen.com) to introduce yourself and detail the topic of your presentations.
 
 So far the confirmed speakers are:
 
