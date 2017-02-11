@@ -16,7 +16,9 @@ We are organizing this conference to connect cyclists from around the world, for
 ## Tickets
 [Get your ticket here!](https://ti.to/futurice/cycleconf-2017)
 
-Our aim is to keep CycleConf to accessible and affordable. So we are happy to announce 100€ ticket price for students and 200€ ticket price for the rest of us! We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact emma.sjostrom@futurice.com for details.
+Our aim is to keep CycleConf to accessible and affordable. So we are happy to announce 1000  SEK ticket price for students and 2000 SEK ticket price for the rest of us! We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact emma.sjostrom@futurice.com for details.
+
+_1000 SEK is ~100 EUR_
 
 ## Venue
 We are happy to announce [Skofabriken]( http://summit.se/en/meeting-facilities/skofabriken/), "The shoe factory" as our CycleConf venue this year! In this hundred-year-old factory building, hacking and learning will take place in rooms named after some of the greatest minds known to human kind. Located in Hornstull, a trendy area on the south-bank of Stockholm, it is not only easy to get to, but also surrounded by a great variety of bars and restaurants.       
