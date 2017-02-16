@@ -1,21 +1,27 @@
 .hero
-    background-color: #000
+    background-image: url('img/hero-high-res.jpg')
+    background-size: cover
+    min-height: 640px
     color: $white
     margin: 0 calc(0px - #{$normal-space})
     padding: 0 $normal-space 1px
     position: relative
     .hero-title
-        margin-bottom: 3em
+        display: flex
+        flex-direction: column
+        align-items: center
+        margin-top: 40px
         img.hero-logo
             width: 7em
             vertical-align: bottom
+            margin-right: 30px
         h1
             display: inline-block
-            margin: 0 0 0 0.5em
             font-weight: bold
             font-size: 4em
-    h2
-        margin-top: $normal-space
+            margin: 15px 0 0 0
+        h2
+            margin: 10px 0
     h3
         margin-top: $large-space
         margin-bottom: $small-space
