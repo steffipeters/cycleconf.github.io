@@ -15,9 +15,9 @@ We are organizing this conference to connect cyclists from around the world, for
 
 ## Speakers
 
-<div style="padding:1em;background:#eee">
+<div style="padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
 <img src="/img/jan.png" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
-<h4 style="margin-top:0;margin-bottom:0.5em">Jan van Brügge</h4>
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Jan van Brügge</h4>
 
 <p style="margin-top:0">Self-thought programmer, I make everything from Cycle.js web apps to satellite control software.</p>
 <br>
