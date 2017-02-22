@@ -13,6 +13,22 @@ Follow us on Twitter for the latest CycleConf updates. Our official twitter hash
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
+## Speakers
+
+<div style="padding:1em;background:#eee">
+<img src="/img/jan.png" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em">Jan van Brügge</h4>
+
+<p style="margin-top:0">Self-thought programmer, I make everything from Cycle.js web apps to satellite control software.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: Property based testing in Cycle.js</p>
+<p style="margin-top:0">How to explore mathematical properties in pieces of your code and how to to them to generate unit tests.</p>
+
+
+</div>
+
+<em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
+
 ## Tickets
 
 <h3 class="ticket"><a href="https://ti.to/futurice/cycleconf-2017">Get your ticket here!</a></h3>
