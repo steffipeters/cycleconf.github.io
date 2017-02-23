@@ -15,8 +15,8 @@ We are organizing this conference to connect cyclists from around the world, for
 
 ## Speakers
 
-<div style="padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
-<img src="/img/jan.png" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/jan.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
 <h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Jan van Brügge</h4>
 
 <p style="margin-top:0">Self-thought programmer, I make everything from Cycle.js web apps to satellite control software.</p>
@@ -25,9 +25,24 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">How to explore mathematical properties in pieces of your code and how to to them to generate unit tests.</p>
 
 <p style="text-align:right">
-<a href="https://github.com/jvanbruegge">Github</a> <a href="https://twitter.com/SuperManitu">Twitter</a>
+<a href="https://github.com/jvanbruegge">Github</a>
+<a href="https://twitter.com/SuperManitu">Twitter</a>
 </p>
+</div>
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/nick.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Nick Johnstone</h4>
 
+<p style="margin-top:0">I am passionate about building tools to enable people to build better software and a better world.
+ When not doing that, I enjoy skateboarding and music.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: The Hitchhiker's Guide to Cycle.js</p>
+<p style="margin-top:0">A story about my journey so far working in the Cycle.js community.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/Widdershin/">Github</a>
+<a href="https://twitter.com/widdnz">Twitter</a>
+</p>
 </div>
 
 <em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
