@@ -22,7 +22,7 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">Self-thought programmer, I make everything from Cycle.js web apps to satellite control software.</p>
 <br>
 <p style="margin:0;font-weight:bold;clear:left">Speaks on: Property based testing in Cycle.js</p>
-<p style="margin-top:0">How to explore mathematical properties in pieces of your code and how to to them to generate unit tests.</p>
+<p style="margin-top:0">How to explore mathematical properties in pieces of your code and how to use them to generate unit tests.</p>
 
 <p style="text-align:right">
 <a href="https://github.com/jvanbruegge">Github</a>
