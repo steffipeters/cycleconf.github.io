@@ -45,6 +45,21 @@ We are organizing this conference to connect cyclists from around the world, for
 </p>
 </div>
 
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/justin.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Justin Woo</h4>
+
+<p style="margin-top:0">Justin is a failed material scientist who now spends his time writing JavaScript for work and Purescript/Haskell for fun. He now lives in Finland as a result of being Twitter friends with André.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: Simpler Cycling with Megadrivers:</p>
+<p style="margin-top:0">Writing cyclejs apps can be weird when you have to work with separate streams fed into drivers. This talk proposes one way to get both stronger typing and a simpler model for your cycle projects by combining them into a 'megadriver'.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/Widdershin/">Github</a>
+<a href="https://twitter.com/widdnz">Twitter</a>
+</p>
+</div>
+
 <em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
 
 ## Tickets
