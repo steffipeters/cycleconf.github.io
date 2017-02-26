@@ -75,6 +75,21 @@ We are organizing this conference to connect cyclists from around the world, for
 </p>
 </div>
 
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/raquel.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Raquel Moss</h4>
+
+<p style="margin-top:0">Code, cats, feminism, and functional programming.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: Organising your code in Cycle.js - An ex-librarian tries to put things in order.</p>
+<p style="margin-top:0">In my quest to create a neatly-organised Cycle.js component, I tried several different ways of arranging my code. Let's look at each, discuss what I've learned, the benefits and the drawbacks, and how we might innovate in the future.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/aronallen/">Github</a>
+<a href="https://twitter.com/newfoort">Twitter</a>
+</p>
+</div>
+
 <em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
 
 ## Hackathon
