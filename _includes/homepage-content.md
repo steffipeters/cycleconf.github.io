@@ -85,8 +85,23 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">In my quest to create a neatly-organised Cycle.js component, I tried several different ways of arranging my code. Let's look at each, discuss what I've learned, the benefits and the drawbacks, and how we might innovate in the future.</p>
 
 <p style="text-align:right">
-<a href="http://github.com/aronallen/">Github</a>
-<a href="https://twitter.com/newfoort">Twitter</a>
+<a href="http://github.com/raquelxmoss/">Github</a>
+<a href="https://twitter.com/raquelxmoss">Twitter</a>
+</p>
+</div>
+
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/gleb.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Gleb Bahmutov</h4>
+
+<p style="margin-top:0">JavaScript ninja, image processing expert, software quality fanatic.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: Web application quality beyond testing.</p>
+<p style="margin-top:0">A successful web application should work. How do you deliver a single component or a complete application that never breaks; that is simple to understand and reuse? Let us discuss what the modern quality tools can do, and where they will go next.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/bahmutov/">Github</a>
+<a href="https://twitter.com/bahmutov">Twitter</a>
 </p>
 </div>
 
