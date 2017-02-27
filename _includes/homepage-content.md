@@ -85,8 +85,8 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">In my quest to create a neatly-organised Cycle.js component, I tried several different ways of arranging my code. Let's look at each, discuss what I've learned, the benefits and the drawbacks, and how we might innovate in the future.</p>
 
 <p style="text-align:right">
-<a href="http://github.com/aronallen/">Github</a>
-<a href="https://twitter.com/newfoort">Twitter</a>
+<a href="http://github.com/raquelxmoss/">Github</a>
+<a href="https://twitter.com/raquelxmoss">Twitter</a>
 </p>
 </div>
 
