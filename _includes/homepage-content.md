@@ -105,6 +105,21 @@ We are organizing this conference to connect cyclists from around the world, for
 </p>
 </div>
 
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/thomas.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Thomas Belin</h4>
+
+<p style="margin-top:0">I am a pure function of Time</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: UI as Pure Functions of Time.</p>
+<p style="margin-top:0">What if we considered Time as a fundamental input of our applications?</p>
+
+<p style="text-align:right">
+<a href="http://github.com/atomrc/">Github</a>
+<a href="https://twitter.com/atomrc">Twitter</a>
+</p>
+</div>
+
 <em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
 
 ## Hackathon
