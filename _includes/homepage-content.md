@@ -55,8 +55,8 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">Writing cyclejs apps can be weird when you have to work with separate streams fed into drivers. This talk proposes one way to get both stronger typing and a simpler model for your cycle projects by combining them into a 'megadriver'.</p>
 
 <p style="text-align:right">
-<a href="http://github.com/Widdershin/">Github</a>
-<a href="https://twitter.com/widdnz">Twitter</a>
+<a href="http://github.com/justinwoo/">Github</a>
+<a href="https://twitter.com/jusrin00">Twitter</a>
 </p>
 </div>
 
