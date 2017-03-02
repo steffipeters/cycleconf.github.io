@@ -143,8 +143,8 @@ It might sound a bit intimidating, but it was a great success last year, even be
 
 ## Lightning talks
 
-During CycleConf every participant will have an opportunity to share something in a 5-minute lightning talk.
-You can sign-up for lightning talks during the conference.
+During CycleConf every participant will have an opportunity to share something in a 5-minute format.
+You will be able to register your lightning talk during the conference.
 
 ## Tickets
 
