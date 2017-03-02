@@ -120,13 +120,31 @@ We are organizing this conference to connect cyclists from around the world, for
 </p>
 </div>
 
-<em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/andre.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Andre Staltz</h4>
+
+<p style="margin-top:0">I worked at Futurice and authored Cycle.js, and now open source is my main occupation.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: The Past, Present, and Future of Cycle.js</p>
+<p style="margin-top:0">Let's take a look at how Cycle.js was born, and how suggestions from the community were crucial to shape it and become what it is today. Then, let's see what possibilities we have for the next significant updates to the framework, and beyond.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/staltz/">Github</a>
+<a href="https://twitter.com/andrestaltz">Twitter</a>
+</p>
+</div>
 
 ## Hackathon
 
 Like last year CycleConf won't just be a place to learn from our amazing speakers. It will also be a place to build upon the ecosystem.
 After an open pitching session teams can form around ideas to build technologies over the weekend. Every team will have an opportunity to present their work Sunday.
 It might sound a bit intimidating, but it was a great success last year, even beginners had a great time in a learning and explorative atmosphere.
+
+## Lightning talks
+
+During CycleConf every participant will have an opportunity to share something in a 5-minute lightning talk.
+You can sign-up for lightning talks during the conference.
 
 ## Tickets
 
