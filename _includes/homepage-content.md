@@ -13,6 +13,21 @@ Follow us on Twitter for the latest CycleConf updates. Our official twitter hash
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
+## Sponsors
+
+### Gold Sponsors
+
+<img src="img/verizon.png" style="width:120px!important;min-width:0">
+
+Verizon Labs is changing the way we communicate by building innovative products and solutions to fuel the telecommunications industry.
+[Twittter](https://twitter.com/VerizonLabs)
+
+
+
+#### Become a Sponsor
+
+To make CycleConf 2017 possible we need help from some generous sponsors, learn more about how you can be part of the effort <a href="./sponsor.pdf">here</a>
+
 ## Speakers
 
 <div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
@@ -162,20 +177,6 @@ To help you plan your travels we can already say that we start at 13.00 on Frida
 ## Venue
 We are happy to announce [Skofabriken]( http://summit.se/en/meeting-facilities/skofabriken/), "The shoe factory" as our CycleConf venue this year! In this hundred-year-old factory building, hacking and learning will take place in rooms named after some of the greatest minds known to human kind. Located in Hornstull, a trendy area on the south-bank of Stockholm, it is not only easy to get to, but also surrounded by a great variety of bars and restaurants.
 
-## Sponsorships
-
-### Gold Sponsors
-
-<img src="img/verizon.png" style="width:120px!important;min-width:0">
-
-Verizon Labs is changing the way we communicate by building innovative products and solutions to fuel the telecommunications industry.
-[Twittter](https://twitter.com/VerizonLabs)
-
-
-
-### Become a Sponsor
-
-To make CycleConf 2017 possible we need help from some generous sponsors, learn more about how you can be part of the effort <a href="./sponsor.pdf">here</a>
 
 
 
