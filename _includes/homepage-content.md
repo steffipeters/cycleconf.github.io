@@ -1,6 +1,6 @@
 ## __CycleConf 2017__
-We are really excited to announce CycleConf 2017, 21st – 23rd of April, in Stockholm.
-Get your ticket [here!](https://ti.to/futurice/cycleconf-2017) Stay tuned for more information, speakers will be announced shortly.
+We are really excited to announce CycleConf 2017, a three day conference and hackfest 21st – 23rd of April, in Stockholm.
+Get your ticket [here!](https://ti.to/futurice/cycleconf-2017) 
 
 
 Join us on Gitter for CycleConf chatter.
@@ -13,13 +13,28 @@ Follow us on Twitter for the latest CycleConf updates. Our official twitter hash
 
 We are organizing this conference to connect cyclists from around the world, for a time of tech talks and presentations, and making a space for focused contributions upon Cycle.js and its ecosystem.
 
+## Sponsors
+
+### Gold Sponsors
+
+<img src="img/verizon.png" style="width:120px!important;min-width:0">
+
+Verizon Labs is changing the way we communicate by building innovative products and solutions to fuel the telecommunications industry.
+[Twittter](https://twitter.com/VerizonLabs)
+
+
+
+#### Become a Sponsor
+
+To make CycleConf 2017 possible we need help from some generous sponsors, learn more about how you can be part of the effort <a href="./sponsor.pdf">here</a>
+
 ## Speakers
 
 <div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
 <img src="/img/jan.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
 <h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Jan van Brügge</h4>
 
-<p style="margin-top:0">Self-thought programmer, I make everything from Cycle.js web apps to satellite control software.</p>
+<p style="margin-top:0">Self-taught programmer, I make everything from Cycle.js web apps to satellite control software.</p>
 <br>
 <p style="margin:0;font-weight:bold;clear:left">Speaks on: Property based testing in Cycle.js</p>
 <p style="margin-top:0">How to explore mathematical properties in pieces of your code and how to use them to generate unit tests.</p>
@@ -55,8 +70,8 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="margin-top:0">Writing cyclejs apps can be weird when you have to work with separate streams fed into drivers. This talk proposes one way to get both stronger typing and a simpler model for your cycle projects by combining them into a 'megadriver'.</p>
 
 <p style="text-align:right">
-<a href="http://github.com/Widdershin/">Github</a>
-<a href="https://twitter.com/widdnz">Twitter</a>
+<a href="http://github.com/justinwoo/">Github</a>
+<a href="https://twitter.com/jusrin00">Twitter</a>
 </p>
 </div>
 
@@ -87,16 +102,65 @@ We are organizing this conference to connect cyclists from around the world, for
 <p style="text-align:right">
 <a href="http://github.com/raquelxmoss/">Github</a>
 <a href="https://twitter.com/raquelxmoss">Twitter</a>
+
 </p>
 </div>
 
-<em style="text-align:center;display:block;clear:both">More speakers will be announced soon…</em>
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/gleb.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Gleb Bahmutov</h4>
+
+<p style="margin-top:0">JavaScript ninja, image processing expert, software quality fanatic.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: Web application quality beyond testing.</p>
+<p style="margin-top:0">A successful web application should work. How do you deliver a single component or a complete application that never breaks; that is simple to understand and reuse? Let us discuss what the modern quality tools can do, and where they will go next.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/bahmutov/">Github</a>
+<a href="https://twitter.com/bahmutov">Twitter</a>
+</p>
+</div>
+
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/thomas.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Thomas Belin</h4>
+
+<p style="margin-top:0">I am a pure function of Time</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: UI as Pure Functions of Time.</p>
+<p style="margin-top:0">What if we considered Time as a fundamental input of our applications?</p>
+
+<p style="text-align:right">
+<a href="http://github.com/atomrc/">Github</a>
+<a href="https://twitter.com/atomrc">Twitter</a>
+</p>
+</div>
+
+<div style="margin-bottom:2em;padding:1em;background:#f8f8f8;border-radius:90px 0 0 0">
+<img src="/img/andre.jpg" class="speaker" style="border-radius:100%;float:left;width:128px;margin-right:1em;" />
+<h4 style="margin-top:0;margin-bottom:0.5em;font-weight:bold">Andre Staltz</h4>
+
+<p style="margin-top:0">I worked at Futurice and authored Cycle.js, and now open source is my main occupation.</p>
+<br>
+<p style="margin:0;font-weight:bold;clear:left">Speaks on: The Past, Present, and Future of Cycle.js</p>
+<p style="margin-top:0">Let's take a look at how Cycle.js was born, and how suggestions from the community were crucial to shape it and become what it is today. Then, let's see what possibilities we have for the next significant updates to the framework, and beyond.</p>
+
+<p style="text-align:right">
+<a href="http://github.com/staltz/">Github</a>
+<a href="https://twitter.com/andrestaltz">Twitter</a>
+</p>
+</div>
 
 ## Hackathon
 
 Like last year CycleConf won't just be a place to learn from our amazing speakers. It will also be a place to build upon the ecosystem.
 After an open pitching session teams can form around ideas to build technologies over the weekend. Every team will have an opportunity to present their work Sunday.
 It might sound a bit intimidating, but it was a great success last year, even beginners had a great time in a learning and explorative atmosphere.
+
+## Lightning talks
+
+During CycleConf every participant will have an opportunity to share something in a 5-minute format.
+You will be able to register your lightning talk during the conference.
 
 ## Tickets
 
@@ -114,8 +178,9 @@ To help you plan your travels we can already say that we start at 13.00 on Frida
 ## Venue
 We are happy to announce [Skofabriken]( http://summit.se/en/meeting-facilities/skofabriken/), "The shoe factory" as our CycleConf venue this year! In this hundred-year-old factory building, hacking and learning will take place in rooms named after some of the greatest minds known to human kind. Located in Hornstull, a trendy area on the south-bank of Stockholm, it is not only easy to get to, but also surrounded by a great variety of bars and restaurants.
 
-## Sponsorships
-To make CycleConf 2017 possible we need help from some generous sponsors, learn more about how you can be part of the effort <a href="./sponsor.pdf">here</a>
+
+
+
 
 ## CycleConf 2016
 CycleConf 2016 was a great success and acted as the launch pad for the next major version of Cycle.js, <a href="/2016">click here to see the talks, and to read more about CycleConf 2016</a>.
