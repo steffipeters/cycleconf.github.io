@@ -1,6 +1,6 @@
 ## __CycleConf 2017__
-We are really excited to announce CycleConf 2017, 21st – 23rd of April, in Stockholm.
-Get your ticket [here!](https://ti.to/futurice/cycleconf-2017) Stay tuned for more information, speakers will be announced shortly.
+We are really excited to announce CycleConf 2017, a three day conference and hackfest 21st – 23rd of April, in Stockholm.
+Get your ticket [here!](https://ti.to/futurice/cycleconf-2017) 
 
 
 Join us on Gitter for CycleConf chatter.
