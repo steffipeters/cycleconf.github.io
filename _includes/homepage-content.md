@@ -172,7 +172,7 @@ _1000 SEK is ~100 EUR_
 
 ## Schedule
 
-| Friday, 21/4 | |
+| **Friday, 21/4** | |
 |---|---|
 | 13:00 | Registration |
 | 14:00 | Opening Keynote |
@@ -181,9 +181,7 @@ _1000 SEK is ~100 EUR_
 | 19:30 | Dinner at venue |
 | 21:00 | Socializing and/or hacking |
 | 00:00 | Venue closing |
-
-| Saturday, 22/4 | |
-|---|---|
+| **Saturday, 22/4** | |
 | 8:00 | Doors opening - Morning hacking |
 | 11:00 | Talk - Thomas Belin |
 | 12:00 | Lunch at venue |
@@ -191,9 +189,7 @@ _1000 SEK is ~100 EUR_
 | 16:00 | Hacking (bar opens at 17:00) |
 | 19:00 | Evening lightning talks |
 | 20:00 | Common dinner and socializing outside of venue |
-
-| Sunday, 23/4 | |
-|---|---|
+| **Sunday, 23/4** | |
 | 8:00 | Morning hacking |
 | 11:00 | Talk - Aron Nyborg Allen |
 | 12:00 | Lunch at venue |
