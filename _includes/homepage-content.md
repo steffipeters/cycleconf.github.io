@@ -102,6 +102,7 @@ To make CycleConf 2017 possible we need help from some generous sponsors, learn 
 <p style="text-align:right">
 <a href="http://github.com/raquelxmoss/">Github</a>
 <a href="https://twitter.com/raquelxmoss">Twitter</a>
+
 </p>
 </div>
 
