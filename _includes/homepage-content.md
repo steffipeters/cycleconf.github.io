@@ -1,6 +1,6 @@
 ## __CycleConf 2017__
 We are really excited to announce CycleConf 2017, a three day conference and hackfest 21st – 23rd of April, in Stockholm.
-Get your ticket [here!](https://ti.to/futurice/cycleconf-2017) 
+Get your ticket [here!](https://ti.to/futurice/cycleconf-2017)
 
 
 Join us on Gitter for CycleConf chatter.
@@ -171,8 +171,34 @@ _1000 SEK is ~100 EUR_
 
 ## Schedule
 
-We are soon to announce the full conference schedule.
-To help you plan your travels we can already say that we start at 13.00 on Friday the 21st, and end at 15.00 Sunday the 23rd.
+| Friday, 21/4 | |
+|---|---|
+| 13:00 | Registration |
+| 14:00 | Opening Keynote |
+| 15:00 | Talks - Jan van Brügge & Nick Johnstone |
+| 17:00 | Idea pitching, team forming and hacking |
+| 19:30 | Dinner at venue |
+| 21:00 | Socializing and/or hacking |
+| 00:00 | Venue closing |
+
+| Saturday, 22/4 | |
+|---|---|
+| 8:00 | Doors opening - Morning hacking |
+| 11:00 | Talk - Thomas Belin |
+| 12:00 | Lunch at venue |
+| 13:00 | Talks - Raquel Moss, Justin Woo, Gleb Bahmutov |
+| 16:00 | Hacking (bar opens at 17:00) |
+| 19:00 | Evening lightning talks |
+| 20:00 | Common dinner and socializing outside of venue |
+
+| Sunday, 23/4 | |
+|---|---|
+| 8:00 | Morning hacking |
+| 11:00 | Talk - Aron Nyborg Allen |
+| 12:00 | Lunch at venue |
+| 13:00 | Talk - André Staltz |
+| 14:00 | Demo code from hacking |
+| 15:00 | Thank you and goodbye! |
 
 ## Venue
 We are happy to announce [Skofabriken]( http://summit.se/en/meeting-facilities/skofabriken/), "The shoe factory" as our CycleConf venue this year! In this hundred-year-old factory building, hacking and learning will take place in rooms named after some of the greatest minds known to human kind. Located in Hornstull, a trendy area on the south-bank of Stockholm, it is not only easy to get to, but also surrounded by a great variety of bars and restaurants.
