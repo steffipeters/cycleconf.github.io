@@ -12,7 +12,6 @@ Learn about Cycle.js from some of the most talented JavaScript professionals and
 * Lunch, Saturday - Sunday
 * Dinner, Friday - Saturday
 * Coffee, Fruit and a Saturday afternoon snack
-* Bar at venue
 
 #### Key benefits
 * Deepen your knowledge in Cycle.js, regardless of if you are a beginner or an expert
