@@ -199,6 +199,7 @@ _1000 SEK is ~100 EUR_
 | 00:00 | Venue closing |
 | **Saturday, 22/4** | |
 | 8:00 | Doors opening - Morning hacking |
+| 10:00 | One day pass - registration |
 | 11:00 | Talk - Thomas Belin |
 | 12:00 | Lunch at venue |
 | 13:00 | Talks - Raquel Moss, Justin Woo, Gleb Bahmutov |
@@ -207,6 +208,7 @@ _1000 SEK is ~100 EUR_
 | 20:00 | Common dinner and socializing outside of venue |
 | **Sunday, 23/4** | |
 | 8:00 | Morning hacking |
+| 10:00 | One day pass - registration |
 | 11:00 | Talk - Aron Nyborg Allen |
 | 12:00 | Lunch at venue |
 | 13:00 | Talk - André Staltz |
