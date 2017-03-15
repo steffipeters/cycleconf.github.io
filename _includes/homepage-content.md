@@ -1,7 +1,23 @@
 ## __CycleConf 2017__
-We are really excited to announce CycleConf 2017, a three day conference and hackfest 21st – 23rd of April, in Stockholm.
+We are really excited to announce CycleConf 2017, a 3-day hackfest and conference, for JavaScript developers.
 Get your ticket [here!](https://ti.to/futurice/cycleconf-2017)
 
+Learn about Cycle.js from some of the most talented JavaScript professionals and Cycle.js experts in the world. Join a team or hack freely during the conference in a unique 3-day experience. 
+
+#### Location and dates
+* Stockholm, Skofabriken Hornstull
+* 21st – 23rd of April
+
+#### Also included in the ticket
+* Lunch, Saturday - Sunday
+* Dinner, Friday - Saturday
+* Coffee, Fruit and a Saturday afternoon snack
+* Bar at venue
+
+#### Key benefits
+* Deepen your knowledge in Cycle.js, regardless of if you are a beginner or an expert
+* A truly international experience with attendees and speakers from all over the world
+* Be part of a growing open source community
 
 Join us on Gitter for CycleConf chatter.
 
