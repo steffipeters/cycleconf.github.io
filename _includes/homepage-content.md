@@ -181,7 +181,7 @@ You will be able to register your lightning talk during the conference.
 
 <h3 class="ticket"><a href="https://ti.to/futurice/cycleconf-2017">Get your ticket here!</a></h3>
 
-Our aim is to keep CycleConf to accessible and affordable. So we are happy to announce 1000  SEK ticket price for students and 2000 SEK ticket price for the rest of us! We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact emma.sjostrom@futurice.com for details.
+Our aim is to keep CycleConf to accessible and affordable. So we are happy to announce 1000  SEK ticket price for students and 2000 SEK ticket price for the rest of us! We also offer day passes at 700 SEK each. We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact emma.sjostrom@futurice.com for details.
 
 _1000 SEK is ~100 EUR_
 
