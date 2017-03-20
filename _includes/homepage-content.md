@@ -5,7 +5,7 @@ Get your ticket [here!](http://cycleconf.com/#tickets)
 Learn about Cycle.js from some of the most talented JavaScript professionals and Cycle.js experts in the world. Join a team or hack freely during the conference in a unique 3-day experience. 
 
 #### Location and dates
-* Stockholm, Skofabriken Hornstull
+* Stockholm, Melt Bar
 * 21st – 23rd of April
 
 #### Also included in the ticket
@@ -216,11 +216,7 @@ _1000 SEK is ~100 EUR_
 | 15:00 | Thank you and goodbye! |
 
 ## Venue
-We are happy to announce [Skofabriken]( http://summit.se/en/meeting-facilities/skofabriken/), "The shoe factory" as our CycleConf venue this year! In this hundred-year-old factory building, hacking and learning will take place in rooms named after some of the greatest minds known to human kind. Located in Hornstull, a trendy area on the south-bank of Stockholm, it is not only easy to get to, but also surrounded by a great variety of bars and restaurants.
-
-
-
-
+Our venue for the conference is [Melt Bar](http://www.meltbar.se/story). This 1920's style cocktail bar is located near the city center, which offers a wide variety of restaurants, bars and other services near by. For CycleConf, Melt Bar will offer a unique surrounding for a close community feeling. You can get there by metro taking any of the lines 17, 18, or 19 to Hötorget station.
 
 ## CycleConf 2016
 CycleConf 2016 was a great success and acted as the launch pad for the next major version of Cycle.js, <a href="/2016">click here to see the talks, and to read more about CycleConf 2016</a>.
