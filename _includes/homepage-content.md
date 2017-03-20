@@ -1,6 +1,6 @@
 ## __CycleConf 2017__
 We are really excited to announce CycleConf 2017, a 3-day hackfest and conference, for JavaScript developers.
-Get your ticket [here!](https://ti.to/futurice/cycleconf-2017)
+Get your ticket [here!](http://cycleconf.com/#tickets)
 
 Learn about Cycle.js from some of the most talented JavaScript professionals and Cycle.js experts in the world. Join a team or hack freely during the conference in a unique 3-day experience. 
 
@@ -179,7 +179,8 @@ You will be able to register your lightning talk during the conference.
 
 ## Tickets
 
-<h3 class="ticket"><a href="https://ti.to/futurice/cycleconf-2017">Get your ticket here!</a></h3>
+<a name="tickets"></a>
+<tito-widget event="futurice/cycleconf-2017"></tito-widget>
 
 Our aim is to keep CycleConf to accessible and affordable. So we are happy to announce 1000  SEK ticket price for students and 2000 SEK ticket price for the rest of us! We also offer day passes at 700 SEK each. We will cover most conference expenses through sponsorships, if you are interested in sponsoring CycleConf please contact emma.sjostrom@futurice.com for details.
 
