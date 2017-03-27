@@ -38,8 +38,12 @@ h1, h2, h3, h4, h5, h6
 
 .page-body
     max-width: $max-article-width
+<<<<<<< HEAD
     padding: 0 $normal-space
     padding-top: $large-space
+=======
+    padding: $large-space $small-space
+>>>>>>> cyclejs/master
 
 nav ul
     margin: 0
@@ -63,6 +67,7 @@ code
     background-color: $almost-white
     color: $black
     padding: 2px 4px
+    word-break: break-all
 
 a
     code
@@ -95,8 +100,14 @@ p > img, p > svg
 @media only screen and (max-width: 680px)
     body
         font-size: calc(.6vw + .8em)
+<<<<<<< HEAD
     .page-body
         padding: 0 $small-space
+=======
+        padding: 0
+        .wide-page-body
+            padding: 0 $small-space
+>>>>>>> cyclejs/master
     .mobile-hidden
         display: none
     .mobile-shown

@@ -1,6 +1,10 @@
 title: "Cycle.js"
 author: "Andre Staltz"
+<<<<<<< HEAD
 description: "We are really excited to announce CycleConf 2017, this time in Stockholm. Make sure to save the date 21nd – 23th of April 2017 while we make the final arrangements, so please check back again soon."
+=======
+description: "A functional and reactive JavaScript framework for predictable code"
+>>>>>>> cyclejs/master
 more: "read more"
 url: "http://cycle.js.org/"
 permalink: none
@@ -10,3 +14,6 @@ defaults: [{scope: {path: ""}, values: {layout: "blank"}}, {scope: {path: "", ty
 gems:
   - octopress-autoprefixer
   - kramdown
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from

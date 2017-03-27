@@ -1,6 +1,9 @@
 .DS_Store
 .sass-cache/
+.DS_Store
 _site/
 
 # Editors
 .idea/
+
+.jekyll-metadata
